@@ -1,0 +1,122 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+#top-layer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #000;
+  color: #fff;
+}
+
+#name-container h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.contact-link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.contact-link:hover {
+  text-decoration: underline;
+}
+
+#header {
+  background-color: #000;
+  padding: 150px;
+  text-align: center;
+  color: #fff;
+}
+.profile-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profile-pic {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+}
+.description {
+  max-width: 400px;
+}
+#social-links {
+  padding: 20px;
+  text-align: center;
+}
+#social-links img {
+  width: 40px;
+  height: 40px;
+  margin: 0 10px;
+}
+#portfolio {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+.portfolio-item {
+  text-align: center;
+}
+.portfolio-item img {
+  width: 200px;
+  height: 400px;
+  object-fit: cover;
+}
+.portfolio-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.portfolio-item {
+  margin: 0 10px; /* Adjust the margin as needed */
+}
+
+.portfolio-description {
+  text-align: center;
+  margin-top: 20px; /* Adjust the margin as needed */
+  max-width: 800px; /* Adjust the max-width as needed */
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 200px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Fade animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
