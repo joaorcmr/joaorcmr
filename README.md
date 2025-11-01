@@ -34,8 +34,14 @@ Mesmo sendo backend de formação, não tenho medo de explorar outras stacks: j�
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorcmr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorcmr&layout=compact&theme=tokyonight)
+
+---
+
 ## 🧱 Arquitetura & Conceitos
-💡 Clean Architecture • SOLID Principles • Repository Pattern  
 ⚙️ Layered Architecture (Infra / Repository / Service / Controller)  
 📊 PostgreSQL Tuning & Query Optimization  
 🔐 Auth, JWT, Middleware e Patterns de Segurança  
