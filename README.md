@@ -1,13 +1,12 @@
 # 👋 Olá! Meu nome é João Ricardo.  
 
-Bem-vindo ao meu perfil do GitHub! 🚀  
+Bem-vindo ao meu perfil do GitHub!
 
 ---
 
 ## 🧠 Sobre Mim
-Sou um **Backend Developer** com foco em **arquiteturas enterprise-grade** e design de **sistemas escaláveis em camadas**.  
-Apaixonado por tecnologia, resolução de problemas complexos e cultura **maker** — gosto de colocar a mão na massa, aprender rápido e entregar soluções precisas para a necessidade do projeto.  
-Se precisar ser elegante vai ser, mas se cliente tiver te cobrando pra ontem eu mato no peito e faço. Tem que trabalhar.  
+Sou um **Backend Developer** e adoro programar. Tenho muita curiosidade para aprender coisas novas.
+Gosto de colocar a mão na massa, não tenho frescura com horario nem final de semana. Não tenho muita mais coisa pra fazer alem da faculdade e trabalho.
 
 Mesmo sendo backend de formação, não tenho medo de explorar outras stacks: já automatizei processos com **Python**, fiz **web scraping**, pipelines de **CI/CD**, e já fiz um treinamento em **Flutter** para desenvolvimento mobile.  
 
