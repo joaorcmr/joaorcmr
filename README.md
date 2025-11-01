@@ -1,19 +1,15 @@
-# 👋 Olá! Meu nome é João Ricardo.
+# 👋 Olá! Meu nome é João Ricardo.  
 
 Bem-vindo ao meu perfil do GitHub! 🚀  
 
 ---
 
-## 🙏 Sobre Mim
-Sou **cristão** e busco todos os dias me aproximar de **Cristo** — inclusive através do meu trabalho.  
-Antes de qualquer linha de código, acredito que **todo esforço e entrega devem ser para honrar a Deus**.
-
+## 🧠 Sobre Mim
 Sou um **Backend Developer** com foco em **arquiteturas enterprise-grade** e design de **sistemas escaláveis em camadas**.  
-Acredito em excelência, propósito e integridade em tudo o que faço.  
-Gosto de resolver problemas complexos, aprender rápido e entregar soluções precisas para a necessidade do projeto.  
-Se for pra fazer bonito, faço bonito — mas se o cliente estiver cobrando pra ontem, eu mato no peito e entrego. 💪  
+Apaixonado por tecnologia, resolução de problemas complexos e cultura **maker** — gosto de colocar a mão na massa, aprender rápido e entregar soluções precisas para a necessidade do projeto.  
+Se precisar ser elegante vai ser, mas se cliente tiver te cobrando pra ontem eu mato no peito e faço. Tem que trabalhar.  
 
-Mesmo sendo backend de formação, não tenho medo de explorar outras stacks: já automatizei processos com **Python**, fiz **web scraping**, pipelines de **CI/CD**, e desenvolvi apps com **Flutter**.
+Mesmo sendo backend de formação, não tenho medo de explorar outras stacks: já automatizei processos com **Python**, fiz **web scraping**, pipelines de **CI/CD**, e já fiz um treinamento em **Flutter** para desenvolvimento mobile.  
 
 ---
 
@@ -47,17 +43,9 @@ Mesmo sendo backend de formação, não tenho medo de explorar outras stacks: j�
 ---
 
 ## 🧰 Outras Capacitações
-🧑‍💻 Automatização com Python.  
+🧑‍💻 Automatização com Python. Não gosto de fazer, mas trabalho é trabalho, n tem que ficar pensando muito nisso n.  
 📦 Integrações entre APIs  
 🚀 Deploy contínuo com Cloud Build e Cloud Run  
-
----
-
-## ✝️ Filosofia de Trabalho
-> “E tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor, e não aos homens.”  
-> — *Colossenses 3:23*  
-
-Essa é a base de tudo o que construo: **trabalhar com propósito, fé e excelência**, colocando Deus acima de qualquer entrega.
 
 ---
 
